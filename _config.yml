@@ -1,14 +1,14 @@
-layout_spectrum: 0.8304495180491358
-typography_spectrum: 0.9515723783988506
+layout_spectrum: 0.9694338126573712
+typography_spectrum: 0.7417869789060205
 color:
-  brandStrength: 0.010390931740403175
-  lightness: 0.3406608628574759
-  saturation: 0.9668258321471512
-  rhythmicContrast: 0.7164870859123766
+  brandStrength: 0.47919920459389687
+  lightness: 0.9458973156288266
+  saturation: 0.5706173835787922
+  rhythmicContrast: 0.22180535783991218
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: MWC
